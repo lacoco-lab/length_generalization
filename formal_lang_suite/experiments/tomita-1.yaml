@@ -1,0 +1,25 @@
+program: train_with_ce.py
+name: tomita-1
+method: grid
+parameters:
+  dataset:
+    value: tomita-1
+  dataset.batch_size:
+    value: 16
+  model:
+    value: gptlmhead
+  model.use_nope:
+    values: [True, False]
+  model.num_layers:
+    values: [1, 2, 4]
+  model.d_model:
+    values: [32]
+  model.num_heads:
+    values: [1, 2, 4]
+  train.epochs:
+    value: 100
+command:
+  - ${env}
+  - python
+  - ${program}
+  - ${args_no_hyphens}

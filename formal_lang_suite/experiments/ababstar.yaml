@@ -1,0 +1,25 @@
+program: train_with_ce.py
+name: abab_star
+method: grid
+parameters:
+  dataset:
+    value: abab_star
+  dataset.batch_size:
+    value: 4
+  model:
+    value: gptlmhead
+  model.use_nope:
+    values: [True, False]
+  model.num_layers:
+    values: [4, 6]
+  model.d_model:
+    values: [32, 64]
+  model.num_heads:
+    values: [2, 4]
+  train.epochs:
+    value: 150
+command:
+  - ${env}
+  - python
+  - ${program}
+  - ${args_no_hyphens}

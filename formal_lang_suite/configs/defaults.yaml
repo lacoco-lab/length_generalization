@@ -1,0 +1,23 @@
+basic:
+    random_state: 42
+    use_wandb: True
+    generate_dataset: True
+    max_seq_size: 0
+    pad_token: '.'
+    bos_token: '$'
+    eos_token: '#'
+    use_scheduler: False
+    debug: False
+defaults:
+    - _self_
+    - model: gptlmhead
+    - train: defaults
+    - dataset: parity
+    - optimizer: adamw
+    - scheduler : steplr
+    - override hydra/job_logging: custom
+hydra:
+    job:
+        chdir: True
+    run:
+        dir: ./outputs/${now:%Y-%m-%d}/${now:%H-%M-%S.%f}

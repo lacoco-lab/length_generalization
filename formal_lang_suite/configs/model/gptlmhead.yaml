@@ -1,0 +1,7 @@
+name: GPT2LMHead
+d_model: 32
+num_layers: 2
+num_heads: 1
+use_reg: False
+reg_coef: 0.0001
+use_nope: False

@@ -1,0 +1,25 @@
+program: train_with_ce.py
+name: aaaa_star
+method: grid
+parameters:
+  dataset:
+    value: aaaa_star
+  dataset.batch_size:
+    value: 16
+  model:
+    value: gptlmhead
+  model.use_nope:
+    values: [True, False]
+  model.num_layers:
+    values: [1, 2, 4, 6]
+  model.d_model:
+    values: [32, 64]
+  model.num_heads:
+    values: [1, 2, 4]
+  train.epochs:
+    value: 100
+command:
+  - ${env}
+  - python
+  - ${program}
+  - ${args_no_hyphens}
