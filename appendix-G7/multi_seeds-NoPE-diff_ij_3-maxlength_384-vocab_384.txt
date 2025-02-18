@@ -1,0 +1,31 @@
+hyper-parameters {'batch_size': 64, 'lr': 0.001, 'd_model': 512, 'n_layer': 5, 'n_head': 2, 'dropout': 0.1}
+**  {'eval_len0-128_acc': 0.9958, 'eval_len129-256_acc': 0.0768, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.8538, 'eval_len129-256_acc': 0.0096, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.0302, 'eval_len129-256_acc': 0.0, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.048, 'eval_len129-256_acc': 0.0, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.075, 'eval_len129-256_acc': 0.0, 'eval_len257-384_acc': 0.0}
+**  {'eval_len0-128_acc': 0.9996, 'eval_len129-256_acc': 0.06, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.0576, 'eval_len129-256_acc': 0.0, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.0562, 'eval_len129-256_acc': 0.0, 'eval_len257-384_acc': 0.0}
+**  {'eval_len0-128_acc': 0.997, 'eval_len129-256_acc': 0.0466, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.9178, 'eval_len129-256_acc': 0.0144, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.0298, 'eval_len129-256_acc': 0.0, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.0498, 'eval_len129-256_acc': 0.0, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.8364, 'eval_len129-256_acc': 0.02, 'eval_len257-384_acc': 0.0}
+**  {'eval_len0-128_acc': 0.997, 'eval_len129-256_acc': 0.0726, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.0366, 'eval_len129-256_acc': 0.0, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.023, 'eval_len129-256_acc': 0.0, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.0368, 'eval_len129-256_acc': 0.0, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.0476, 'eval_len129-256_acc': 0.0, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.0508, 'eval_len129-256_acc': 0.0, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.9832, 'eval_len129-256_acc': 0.119, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.5686, 'eval_len129-256_acc': 0.0014, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.9204, 'eval_len129-256_acc': 0.0362, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.0446, 'eval_len129-256_acc': 0.0, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.0662, 'eval_len129-256_acc': 0.0, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.0576, 'eval_len129-256_acc': 0.0, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.0584, 'eval_len129-256_acc': 0.0, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.0434, 'eval_len129-256_acc': 0.0, 'eval_len257-384_acc': 0.0}
+{'eval_len0-128_acc': 0.9896, 'eval_len129-256_acc': 0.0602, 'eval_len257-384_acc': 0.0}
+**  {'eval_len0-128_acc': 0.9976, 'eval_len129-256_acc': 0.0332, 'eval_len257-384_acc': 0.0}
+mean results		 eval_len0-128_acc: 0.9974		eval_len129-256_acc: 0.0578		eval_len257-384_acc: 0.0000

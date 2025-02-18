@@ -1,0 +1,10 @@
+
+
+task:  sort 	 1l1h256d 
+
+1l1h256d		 ** early stop 0.9		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.9975		eval_len101-150_acc: 0.9225 		lr: 0.001
+1l1h256d		 ** early stop 0.8		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.9945		eval_len101-150_acc: 0.4195 		lr: 0.001
+1l1h256d		 ** early stop 1.0		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 1.0		eval_len101-150_acc: 0.839 		lr: 0.001
+1l1h256d		 ** early stop 0.9		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.9985		eval_len101-150_acc: 0.8925 		lr: 0.001
+1l1h256d		 ** early stop 0.9		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 1.0		eval_len101-150_acc: 0.9565 		lr: 0.001
+mean results		 eval_len0-50_acc: 1.0000		eval_len51-100_acc: 0.9981		eval_len101-150_acc: 0.8060

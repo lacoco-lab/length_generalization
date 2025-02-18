@@ -1,0 +1,10 @@
+
+
+task:  parity 	 bigsmalllr 
+
+12l12h768d		 ** reach max step		 eval_len0-50_acc: 0.9725		eval_len51-100_acc: 0.732		eval_len101-150_acc: 0.607 		lr: 3e-05
+12l12h768d		 ** reach max step		 eval_len0-50_acc: 0.9825		eval_len51-100_acc: 0.7585		eval_len101-150_acc: 0.634 		lr: 3e-05
+12l12h768d		 ** reach max step		 eval_len0-50_acc: 0.9625		eval_len51-100_acc: 0.728		eval_len101-150_acc: 0.6465 		lr: 3e-05
+12l12h768d		 ** reach max step		 eval_len0-50_acc: 0.976		eval_len51-100_acc: 0.737		eval_len101-150_acc: 0.636 		lr: 3e-05
+12l12h768d		 ** reach max step		 eval_len0-50_acc: 0.9825		eval_len51-100_acc: 0.7695		eval_len101-150_acc: 0.6415 		lr: 3e-05
+mean results		 eval_len0-50_acc: 0.9752		eval_len51-100_acc: 0.7450		eval_len101-150_acc: 0.6330

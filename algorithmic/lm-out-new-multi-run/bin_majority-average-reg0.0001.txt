@@ -1,0 +1,10 @@
+
+
+task:  bin_majority 	 1l1h16d 
+
+1l1h16d		 ** early stop 0.1		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 1.0		eval_len101-150_acc: 1.0 		lr: 0.001
+1l1h16d		 ** early stop 0.1		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 1.0		eval_len101-150_acc: 1.0 		lr: 0.001
+1l1h16d		 ** early stop 0.1		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 1.0		eval_len101-150_acc: 1.0 		lr: 0.001
+1l1h16d		 ** early stop 0.1		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.9995		eval_len101-150_acc: 0.998 		lr: 0.001
+1l1h16d		 ** early stop 0.1		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.999		eval_len101-150_acc: 0.997 		lr: 0.001
+mean results		 eval_len0-50_acc: 1.0000		eval_len51-100_acc: 0.9997		eval_len101-150_acc: 0.9990

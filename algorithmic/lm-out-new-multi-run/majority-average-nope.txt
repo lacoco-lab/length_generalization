@@ -1,0 +1,21 @@
+
+
+task:  majority 	 1l1h64d 
+
+1l1h64d		 ** early stop 0.7		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 1.0		eval_len101-150_acc: 0.987 		lr: 0.001
+1l1h64d		 reach max step		 eval_len0-50_acc: 0.9865		eval_len51-100_acc: 0.938		eval_len101-150_acc: 0.8935 		lr: 0.001
+1l1h64d		 reach max step		 eval_len0-50_acc: 0.9675		eval_len51-100_acc: 0.8795		eval_len101-150_acc: 0.843 		lr: 0.001
+1l1h64d		 reach max step		 eval_len0-50_acc: 0.996		eval_len51-100_acc: 0.9685		eval_len101-150_acc: 0.9425 		lr: 0.001
+1l1h64d		 reach max step		 eval_len0-50_acc: 0.942		eval_len51-100_acc: 0.8465		eval_len101-150_acc: 0.7745 		lr: 0.001
+1l1h64d		 ** early stop 0.6		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 1.0		eval_len101-150_acc: 0.994 		lr: 0.001
+1l1h64d		 reach max step		 eval_len0-50_acc: 0.9455		eval_len51-100_acc: 0.8365		eval_len101-150_acc: 0.784 		lr: 0.001
+1l1h64d		 reach max step		 eval_len0-50_acc: 0.9875		eval_len51-100_acc: 0.9265		eval_len101-150_acc: 0.9085 		lr: 0.001
+1l1h64d		 reach max step		 eval_len0-50_acc: 0.9915		eval_len51-100_acc: 0.9465		eval_len101-150_acc: 0.9205 		lr: 0.001
+1l1h64d		 reach max step		 eval_len0-50_acc: 0.927		eval_len51-100_acc: 0.8135		eval_len101-150_acc: 0.7245 		lr: 0.001
+1l1h64d		 ** early stop 0.9		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.9975		eval_len101-150_acc: 0.9835 		lr: 0.001
+1l1h64d		 reach max step		 eval_len0-50_acc: 0.9955		eval_len51-100_acc: 0.9705		eval_len101-150_acc: 0.9445 		lr: 0.001
+1l1h64d		 reach max step		 eval_len0-50_acc: 0.961		eval_len51-100_acc: 0.8525		eval_len101-150_acc: 0.781 		lr: 0.001
+1l1h64d		 ** early stop 0.5		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 1.0		eval_len101-150_acc: 0.9875 		lr: 0.001
+1l1h64d		 reach max step		 eval_len0-50_acc: 0.9695		eval_len51-100_acc: 0.8815		eval_len101-150_acc: 0.8395 		lr: 0.001
+1l1h64d		 ** early stop 0.3		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.9955		eval_len101-150_acc: 0.971 		lr: 0.001
+mean results		 eval_len0-50_acc: 1.0000		eval_len51-100_acc: 0.9986		eval_len101-150_acc: 0.9846

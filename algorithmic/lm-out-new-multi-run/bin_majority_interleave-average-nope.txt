@@ -1,0 +1,10 @@
+
+
+task:  bin_majority_interleave_sep 	 big 
+
+12l12h768d		 ** reach max step		 eval_len0-50_acc: 0.9695		eval_len51-100_acc: 0.7475		eval_len101-150_acc: 0.3945 		lr: 0.0001
+12l12h768d		 ** reach max step		 eval_len0-50_acc: 0.9585		eval_len51-100_acc: 0.4175		eval_len101-150_acc: 0.1105 		lr: 0.0001
+12l12h768d		 ** reach max step		 eval_len0-50_acc: 0.969		eval_len51-100_acc: 0.7775		eval_len101-150_acc: 0.55 		lr: 0.0001
+12l12h768d		 ** reach max step		 eval_len0-50_acc: 0.9435		eval_len51-100_acc: 0.7605		eval_len101-150_acc: 0.4685 		lr: 0.0001
+12l12h768d		 ** reach max step		 eval_len0-50_acc: 0.9675		eval_len51-100_acc: 0.7375		eval_len101-150_acc: 0.45 		lr: 0.0001
+mean results		 eval_len0-50_acc: 0.9616		eval_len51-100_acc: 0.6881		eval_len101-150_acc: 0.3947

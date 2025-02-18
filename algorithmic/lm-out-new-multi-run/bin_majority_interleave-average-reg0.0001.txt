@@ -1,0 +1,10 @@
+
+
+task:  bin_majority_interleave_sep 	 2l4h256dsmalllr 
+
+2l4h256d		 ** early stop 0.5		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.9435		eval_len101-150_acc: 0.657 		lr: 0.0001
+2l4h256d		 ** early stop 0.1		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.975		eval_len101-150_acc: 0.951 		lr: 0.0001
+2l4h256d		 ** early stop 0.8		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.9755		eval_len101-150_acc: 0.854 		lr: 0.0001
+2l4h256d		 ** early stop 0.8		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.9965		eval_len101-150_acc: 0.945 		lr: 0.0001
+2l4h256d		 ** early stop 0.7		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.975		eval_len101-150_acc: 0.903 		lr: 0.0001
+mean results		 eval_len0-50_acc: 1.0000		eval_len51-100_acc: 0.9731		eval_len101-150_acc: 0.8620

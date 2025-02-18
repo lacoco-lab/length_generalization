@@ -1,0 +1,10 @@
+
+
+task:  majority 	 1l2h256d 
+
+1l2h256d		 ** early stop 0.6		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.998		eval_len101-150_acc: 0.9845 		lr: 0.001
+1l2h256d		 ** early stop 0.8		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 1.0		eval_len101-150_acc: 0.9915 		lr: 0.001
+1l2h256d		 ** early stop 0.6		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.999		eval_len101-150_acc: 0.99 		lr: 0.001
+1l2h256d		 ** early stop 0.8		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 1.0		eval_len101-150_acc: 0.9915 		lr: 0.001
+1l2h256d		 ** early stop 0.6		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.999		eval_len101-150_acc: 0.99 		lr: 0.001
+mean results		 eval_len0-50_acc: 1.0000		eval_len51-100_acc: 0.9992		eval_len101-150_acc: 0.9895

@@ -1,0 +1,12 @@
+
+
+task:  parity 	 4l2h256dsmalllr 
+
+4l2h256d		 ** early stop 1.0		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.8405		eval_len101-150_acc: 0.639 		lr: 0.0001
+4l2h256d		 reach max step		 eval_len0-50_acc: 0.921		eval_len51-100_acc: 0.6675		eval_len101-150_acc: 0.5985 		lr: 0.0001
+4l2h256d		 ** early stop 1.0		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.817		eval_len101-150_acc: 0.5505 		lr: 0.0001
+4l2h256d		 ** early stop 1.0		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.8285		eval_len101-150_acc: 0.5935 		lr: 0.0001
+4l2h256d		 ** early stop 0.9		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.841		eval_len101-150_acc: 0.673 		lr: 0.0001
+4l2h256d		 reach max step		 eval_len0-50_acc: 0.944		eval_len51-100_acc: 0.695		eval_len101-150_acc: 0.582 		lr: 0.0001
+4l2h256d		 ** early stop 0.9		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.8205		eval_len101-150_acc: 0.647 		lr: 0.0001
+mean results		 eval_len0-50_acc: 1.0000		eval_len51-100_acc: 0.8295		eval_len101-150_acc: 0.6206

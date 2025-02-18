@@ -1,0 +1,5 @@
+1l1h16d		 reach max step		 eval_len0-50_acc: 0.144		eval_len51-100_acc: 0.15		eval_len101-150_acc: 0.0 		lr: 0.001
+1l1h16d		 reach max step		 eval_len0-50_acc: 0.0		eval_len51-100_acc: 0.0		eval_len101-150_acc: 0.0 		lr: 0.0001
+1l1h64d		 >> reach max step		 eval_len0-50_acc: 0.993		eval_len51-100_acc: 0.9855		eval_len101-150_acc: 0.826 		lr: 0.001
+1l1h64d		 reach max step		 eval_len0-50_acc: 0.7965		eval_len51-100_acc: 0.9965		eval_len101-150_acc: 0.996 		lr: 0.0001
+1l1h256d		 >> early stop 1.0		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 1.0		eval_len101-150_acc: 0.9845 		lr: 0.001

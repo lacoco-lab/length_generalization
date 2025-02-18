@@ -1,0 +1,18 @@
+
+
+task:  unique_copy 	 2l1h64d 
+
+2l1h64d		 ** early stop 0.9		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.997		eval_len101-150_acc: 0.9915 		lr: 0.001
+2l1h64d		 reach max step		 eval_len0-50_acc: 0.9985		eval_len51-100_acc: 0.9975		eval_len101-150_acc: 0.986 		lr: 0.001
+2l1h64d		 reach max step		 eval_len0-50_acc: 0.999		eval_len51-100_acc: 0.9995		eval_len101-150_acc: 0.997 		lr: 0.001
+2l1h64d		 ** early stop 1.0		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.9985		eval_len101-150_acc: 0.9945 		lr: 0.001
+2l1h64d		 reach max step		 eval_len0-50_acc: 0.9995		eval_len51-100_acc: 0.9965		eval_len101-150_acc: 0.9855 		lr: 0.001
+2l1h64d		 reach max step		 eval_len0-50_acc: 0.9995		eval_len51-100_acc: 0.9975		eval_len101-150_acc: 0.993 		lr: 0.001
+2l1h64d		 reach max step		 eval_len0-50_acc: 0.9995		eval_len51-100_acc: 0.998		eval_len101-150_acc: 0.9875 		lr: 0.001
+2l1h64d		 reach max step		 eval_len0-50_acc: 0.9995		eval_len51-100_acc: 0.9965		eval_len101-150_acc: 0.9925 		lr: 0.001
+2l1h64d		 reach max step		 eval_len0-50_acc: 0.9995		eval_len51-100_acc: 0.996		eval_len101-150_acc: 0.99 		lr: 0.001
+2l1h64d		 ** early stop 1.0		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.997		eval_len101-150_acc: 0.9955 		lr: 0.001
+2l1h64d		 reach max step		 eval_len0-50_acc: 0.999		eval_len51-100_acc: 0.9975		eval_len101-150_acc: 0.985 		lr: 0.001
+2l1h64d		 ** early stop 1.0		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.9995		eval_len101-150_acc: 0.992 		lr: 0.001
+2l1h64d		 ** early stop 1.0		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.9975		eval_len101-150_acc: 0.993 		lr: 0.001
+mean results		 eval_len0-50_acc: 1.0000		eval_len51-100_acc: 0.9979		eval_len101-150_acc: 0.9933

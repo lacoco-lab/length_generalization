@@ -1,0 +1,10 @@
+
+
+task:  addition 	 big 
+
+12l12h768d		 ** reach max step		 eval_len0-50_acc: 0.9965		eval_len51-100_acc: 0.2935		eval_len101-150_acc: 0.0 		lr: 0.0001
+12l12h768d		 ** reach max step		 eval_len0-50_acc: 0.9965		eval_len51-100_acc: 0.21		eval_len101-150_acc: 0.0 		lr: 0.0001
+12l12h768d		 ** reach max step		 eval_len0-50_acc: 0.9965		eval_len51-100_acc: 0.271		eval_len101-150_acc: 0.0 		lr: 0.0001
+12l12h768d		 ** reach max step		 eval_len0-50_acc: 0.9985		eval_len51-100_acc: 0.276		eval_len101-150_acc: 0.0 		lr: 0.0001
+12l12h768d		 ** reach max step		 eval_len0-50_acc: 0.999		eval_len51-100_acc: 0.2885		eval_len101-150_acc: 0.0 		lr: 0.0001
+mean results		 eval_len0-50_acc: 0.9974		eval_len51-100_acc: 0.2678		eval_len101-150_acc: 0.0000

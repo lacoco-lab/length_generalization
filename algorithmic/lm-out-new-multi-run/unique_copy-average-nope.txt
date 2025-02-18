@@ -1,0 +1,10 @@
+
+
+task:  unique_copy 	 4l4h256d 
+
+4l4h256d		 ** early stop 0.8		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.124		eval_len101-150_acc: 0.0 		lr: 0.001
+4l4h256d		 ** early stop 0.7		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.1085		eval_len101-150_acc: 0.0 		lr: 0.001
+4l4h256d		 ** early stop 0.9		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.21		eval_len101-150_acc: 0.0 		lr: 0.001
+4l4h256d		 ** early stop 0.7		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.3095		eval_len101-150_acc: 0.0 		lr: 0.001
+4l4h256d		 ** early stop 0.8		 eval_len0-50_acc: 1.0		eval_len51-100_acc: 0.148		eval_len101-150_acc: 0.0 		lr: 0.001
+mean results		 eval_len0-50_acc: 1.0000		eval_len51-100_acc: 0.1800		eval_len101-150_acc: 0.0000

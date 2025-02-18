@@ -1,0 +1,6 @@
+**  {'eval_len0-50_acc': 1.0, 'eval_len51-100_acc': 0.3072, 'eval_len101-150_acc': 0.0}
+**  {'eval_len0-50_acc': 0.9944, 'eval_len51-100_acc': 0.1896, 'eval_len101-150_acc': 0.0}
+**  {'eval_len0-50_acc': 1.0, 'eval_len51-100_acc': 0.3056, 'eval_len101-150_acc': 0.0}
+**  {'eval_len0-50_acc': 0.9994, 'eval_len51-100_acc': 0.1018, 'eval_len101-150_acc': 0.0}
+**  {'eval_len0-50_acc': 1.0, 'eval_len51-100_acc': 0.256, 'eval_len101-150_acc': 0.0}
+mean results		 eval_len0-50_acc: 0.9988		eval_len51-100_acc: 0.2320		eval_len101-150_acc: 0.0000

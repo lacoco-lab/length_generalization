@@ -1,0 +1,1 @@
+12l12h768d		 >> reach max step		 eval_len0-50_acc: 0.9985		eval_len51-100_acc: 0.2955		eval_len101-150_acc: 0.0 		lr: 0.0001

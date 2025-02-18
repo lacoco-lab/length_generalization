@@ -1,0 +1,4 @@
+0 None ===== best config so far:  None ===== current config:  {'batch_size': 64, 'lr': 0.001, 'd_model': 64, 'n_layer': 2, 'n_head': 1, 'dropout': 0}
+0 None ===== best config so far:  None ===== current config:  {'batch_size': 64, 'lr': 0.001, 'd_model': 64, 'n_layer': 2, 'n_head': 1, 'dropout': 0.1}
+0.9972 {'eval_len0-128_acc': 0.9996, 'eval_len129-256_acc': 0.9972, 'eval_len257-384_acc': 0.976} ===== best config so far:  {'batch_size': 64, 'lr': 0.001, 'd_model': 256, 'n_layer': 2, 'n_head': 1, 'dropout': 0} ===== current config:  {'batch_size': 64, 'lr': 0.001, 'd_model': 256, 'n_layer': 2, 'n_head': 1, 'dropout': 0}
+1.0 {'eval_len0-128_acc': 1.0, 'eval_len129-256_acc': 1.0, 'eval_len257-384_acc': 0.9882} ===== best config so far:  {'batch_size': 64, 'lr': 0.001, 'd_model': 256, 'n_layer': 2, 'n_head': 1, 'dropout': 0.1} ===== current config:  {'batch_size': 64, 'lr': 0.001, 'd_model': 256, 'n_layer': 2, 'n_head': 1, 'dropout': 0.1}

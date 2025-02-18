@@ -1,0 +1,7 @@
+hyper-parameters {'batch_size': 64, 'lr': 0.001, 'd_model': 512, 'n_layer': 5, 'n_head': 1, 'dropout': 0.1}
+**  {'eval_len0-128_acc': 1.0, 'eval_len129-256_acc': 0.7268, 'eval_len257-384_acc': 0.0}
+**  {'eval_len0-128_acc': 1.0, 'eval_len129-256_acc': 0.4606, 'eval_len257-384_acc': 0.0}
+**  {'eval_len0-128_acc': 1.0, 'eval_len129-256_acc': 0.5746, 'eval_len257-384_acc': 0.0}
+**  {'eval_len0-128_acc': 0.9998, 'eval_len129-256_acc': 0.6228, 'eval_len257-384_acc': 0.0}
+**  {'eval_len0-128_acc': 1.0, 'eval_len129-256_acc': 0.6252, 'eval_len257-384_acc': 0.0}
+mean results		 eval_len0-128_acc: 1.0000		eval_len129-256_acc: 0.6020		eval_len257-384_acc: 0.0000

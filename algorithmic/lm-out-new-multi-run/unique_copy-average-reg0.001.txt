@@ -1,0 +1,10 @@
+
+
+task:  unique_copy 	 2l1h64d 
+
+2l1h64d		 ** reach max step		 eval_len0-50_acc: 0.997		eval_len51-100_acc: 0.992		eval_len101-150_acc: 0.9775 		lr: 0.001
+2l1h64d		 ** reach max step		 eval_len0-50_acc: 0.9985		eval_len51-100_acc: 0.987		eval_len101-150_acc: 0.967 		lr: 0.001
+2l1h64d		 ** reach max step		 eval_len0-50_acc: 0.9985		eval_len51-100_acc: 0.987		eval_len101-150_acc: 0.967 		lr: 0.001
+2l1h64d		 ** reach max step		 eval_len0-50_acc: 0.9985		eval_len51-100_acc: 0.987		eval_len101-150_acc: 0.967 		lr: 0.001
+2l1h64d		 ** reach max step		 eval_len0-50_acc: 0.9985		eval_len51-100_acc: 0.987		eval_len101-150_acc: 0.967 		lr: 0.001
+mean results		 eval_len0-50_acc: 0.9982		eval_len51-100_acc: 0.9880		eval_len101-150_acc: 0.9691
