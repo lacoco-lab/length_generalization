@@ -77,7 +77,6 @@ if __name__ == "__main__":
     test_num = 2_000
 
     save_path = f"./lm-out-new-multi-run"
-    save_path = "saved_models"
     if not os.path.exists(save_path):
         os.mkdir(save_path)
     if args.nope:
@@ -274,7 +273,7 @@ if __name__ == "__main__":
             if len(results[f"eval_len{train_length_range[0]}-{train_length_range[1]}_acc"]) == args.num_run:
                 break
         
-        trainer.save_model(os.path.join(save_path, f"{task}-average{suffix}"))
+        # trainer.save_model(os.path.join(save_path, f"{task}-average{suffix}"))
         print("mean results\t\t",  "\t\t".join([f"{key}: {(sum(value) / args.num_run):.4f}" for key, value in results.items()]), file=summary_f)
         summary_f.flush()
         
